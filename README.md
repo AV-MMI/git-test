@@ -1,0 +1,1 @@
+This is XXIXIXMMI first git project
